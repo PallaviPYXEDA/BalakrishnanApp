@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/10KyniuglvTPAo2UGyJwkweos__PXuyCN
 """
 
-!pip install mne
-
-!pip install streamlit
-
-!pip install gtts
 
 import streamlit as st
 import mne
